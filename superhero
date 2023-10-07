@@ -17,7 +17,18 @@
         </tr>
     </thead>
     <tbody>
-
+        <tr>
+            <th>Superman</th>
+            <td>Clark Kent</td>
+            <td><img src="" alt=""></td>
+            <td>
+                <ul>
+                    <li>Flying</li>
+                    <li>Laser Eyes</li>
+                    <li>Strength</li>
+                </ul>
+            </td>
+        </tr>
     </tbody>
 
   </table>
