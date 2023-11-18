@@ -2,7 +2,6 @@
 {
     --pink: RGB(255,204,229);
     --gray: RGB(192,192,192);
-    --blue: RGB(204,229,255)
-
+    --blue: RGB(204,229,255);
     background-color: var(--gray)
 }
