@@ -6,3 +6,12 @@
 
     background-color: var(--gray);
 }
+
+.title
+{
+  color: var(--pink);
+  font-size: 60pt;
+  text-decoration: underline;
+  text-align: center;
+}
+
