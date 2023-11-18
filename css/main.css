@@ -7,7 +7,7 @@
     background-color: var(--gray);
 }
 
-.title
+h1
 {
   color: var(--pink);
   font-size: 60pt;
