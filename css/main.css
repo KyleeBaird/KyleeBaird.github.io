@@ -22,6 +22,11 @@ img
   margin-right: auto;
 }
 
+ul li
+(
+  font-weight: bold;
+)
+
 .footertext
 {
   display: block;
@@ -29,3 +34,4 @@ img
   text-align: center;
   margin-top: 100px;
 }
+
