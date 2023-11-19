@@ -19,6 +19,7 @@ h2 + p + h3 + a
 {
   display: block;
   text-align: center;
+  color: var(--blue);
 }
 
 img 
