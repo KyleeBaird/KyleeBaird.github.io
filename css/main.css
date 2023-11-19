@@ -34,7 +34,7 @@ ul li
   text-align: center;
 }
  
-h2 + p + a
+h2
 {
   text-align: center;
   display: block;
