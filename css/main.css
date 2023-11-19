@@ -22,10 +22,14 @@ img
   margin-right: auto;
 }
 
+ul li
+{
+  font-weight: bold;
+}
 
 .footertext
 {
   display: block;
-  margin-top: 100px;
+  margin-top: 200px;
   text-align: center;
 }
