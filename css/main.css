@@ -25,7 +25,7 @@ img
 
 .footertext
 {
-  font-style: italic;
-  text-align: center;
+  display: block;
   margin-top: 100px;
+  text-align: center;
 }
