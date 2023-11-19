@@ -7,14 +7,6 @@
     background-color: var(--gray);
 }
 
-.title
-{
-  color: var(--blue);
-  font-size: 90pt;
-  text-decoration: underline;
-  text-align: center;
-}
-
 h1
 {
   color: var(--pink);
