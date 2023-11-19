@@ -15,6 +15,12 @@ h1
   text-align: center;
 }
 
+h2 + p + h3 + a
+{
+  text-align: center;
+  display: block;
+}
+
 img 
 {
   display: block;
@@ -34,8 +40,3 @@ ul li
   text-align: center;
 }
  
-h2 + p + h3 + a
-{
-  text-align: center;
-  display: block;
-}
