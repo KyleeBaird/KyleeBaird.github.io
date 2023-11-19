@@ -7,7 +7,7 @@
     background-color: var(--gray);
 }
 
-h1, h2
+h1
 {
   color: var(--pink);
   font-size: 60pt;
@@ -31,5 +31,15 @@ ul li
 {
   display: block;
   margin-top: 200px;
+  text-align: center;
+}
+ 
+h2
+{
+  text-align: center;
+}
+
+section
+{
   text-align: center;
 }
