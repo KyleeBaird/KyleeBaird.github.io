@@ -7,7 +7,7 @@
     background-color: var(--gray);
 }
 
-h1
+h1, h2
 {
   color: var(--pink);
   font-size: 60pt;
