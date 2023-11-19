@@ -39,3 +39,8 @@ h2 + p + a
   text-align: center;
   display: block;
 }
+
+h3
+{
+  text-align: center;
+}
