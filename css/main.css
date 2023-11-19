@@ -15,7 +15,12 @@ h1
   text-align: center;
 }
 
-h2 + p + h3 + a
+p
+{
+text-align: center;
+}
+
+h2 + h3 + a
 {
   display: block;
   text-align: center;
